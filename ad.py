@@ -1,2 +1,3 @@
-z=list(range(1,4+1))
-print(z[3:4])
+a= int(input())
+b= int(input())
+print(a+b)
