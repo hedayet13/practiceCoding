@@ -27,4 +27,4 @@ else:
     if x==a:
         print('Yes')
     else:
-        print('NO')
+        print('No')
